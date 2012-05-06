@@ -1,0 +1,4 @@
+name: GlowWorld
+main: com.GlowWorld.Main.Main
+version: InfiniteBetaVersionUnnamed
+load: STARTUP 
